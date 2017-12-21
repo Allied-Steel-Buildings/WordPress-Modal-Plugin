@@ -1,0 +1,1 @@
+# WordPress Modal Plugin
