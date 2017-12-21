@@ -32,7 +32,7 @@ Tested up to: v4.8.2
 About Allied
 ----------------
 
-![Allied](https://github.com/Allied-Steel-Buildings/WordPress-Modal-Plugin/blob/master/ASB-Logo-Compressed.jpg?raw=true)
+![Allied](https://github.com/Allied-Steel-Buildings/WordPress-Modal-Plugin/blob/master/assets/ASB-Logo-Compressed.jpg?raw=true)
 
 [Allied][allied] is a global leader in steel construction, developing solutions for every industry. From aviation to warehouses and everything in between, trust [Allied][allied] to be with you all the way.    
 
